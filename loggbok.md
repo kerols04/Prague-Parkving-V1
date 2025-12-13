@@ -30,3 +30,4 @@ Reflektion: Jag lärde mig att genom att samla all kontroll logik i en enda funk
 10 december
 Gjort: Idag implementerade jag funktionen TaBort. Den använder TaBortReg för att ta bort fordonet och sedan se till att platsen blir uppdaterad. Efter det testade jag ALLT systematiskt. Jag kollade även vad som hände när garaget var fullt, när jag skrev in ett ogiltigt platsnummer och slutligen när jag försökte parkera ett fordon med ett registreringsnummer som redan fanns. Det ledde till att jag fick justera felmeddelandena så att de blev tydligare.
 Reflektion: Jag lärde mig att systematisk testning att kolla varje funktion noggrant är superviktigt. Det hjälpte mig att hitta flera småfel som jag annars hade missat. 
+Detta är en kompletteringsuppgift som jag arbetat med parallellt med andra moment, vilket gör att loggboken är mer kompakt och fokuserad på de viktigaste delarna av arbetet.
